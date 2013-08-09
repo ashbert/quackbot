@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?>
+<UpgradeLog>
+<Properties><Property Name="Solution" Value="QuackBot">
+</Property><Property Name="Solution File" Value="E:\Personal Projects\Visual Studio Projects\QuackBot\QuackBot.sln">
+</Property><Property Name="Date" Value="Saturday, June 26, 2004">
+</Property><Property Name="Time" Value="0:04 AM">
+</Property><Property Name="LogNumber" Value="2">
+</Property></Properties><Event ErrorLevel="0" Project="QuackBot" Source="QuackBot.csproj" Description="Project upgraded successfully">
+</Event><Event ErrorLevel="3" Project="QuackBot" Source="QuackBot.csproj" Description="Upgraded">
+</Event><Event ErrorLevel="0" Project="" Source="QuackBot.sln" Description="The solution file does not require upgrade.">
+</Event><Event ErrorLevel="3" Project="" Source="QuackBot.sln" Description="No Upgrade Required">
+</Event></UpgradeLog>
